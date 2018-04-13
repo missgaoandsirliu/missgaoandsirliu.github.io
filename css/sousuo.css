@@ -1,0 +1,140 @@
+            .div0{
+				border:none;
+			    background-image: url(../img/bg-img.jpg);
+			    background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div1{ 
+				position: absolute;
+				width: 49%;
+				height: 100%;
+			    left: 0px;	 		
+			}
+			.div11{
+				position: absolute;
+				width: 49%;
+				height: 100%;
+			    right: 0px;	 		
+			}
+			.div3{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position:absolute;
+				left: 10%;	 
+				top: 5%;
+				text-decoration: none;
+				text-align: center;
+			}
+			.div3:hover{
+				background-image: url(../img/1-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div4{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position: absolute;
+				right: 10%;
+				top: 5%;
+				text-align: center;
+			}
+			.div4:hover{
+				background-image: url(../img/2-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div5{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position:absolute;
+				left: 10%;	 
+				top: 30%;
+				text-align: center;
+			}
+			.div5:hover{
+				background-image: url(../img/3-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div6{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position: absolute;
+				right: 10%;
+				top: 30%;
+				text-align: center;
+			}
+			.div6:hover{
+				background-image: url(../img/4-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div7{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position:absolute;
+				left: 10%;	 
+				top: 55%;
+				text-align: center;
+			}
+			.div7:hover{
+				background-image: url(../img/5-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div8{
+				width: 30%;
+				height: 15%;
+				font-size: 200%;
+				position:absolute;
+				right: 10%;
+				top: 55%;
+				text-align: center;
+			}
+			.div8:hover{
+				background-image: url(../img/6-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.div9{
+				width: 60%;
+				height: 18%;
+				font-size: 200%;
+				position:absolute;
+				left: 20%;
+				top: 80%;
+				text-align: center;
+			}
+			.div9:hover{
+				background-image: url(../img/7-img.jpg);
+				background-size: 100%;
+			    background-repeat: no-repeat;
+			}
+			.fun{
+			 width: 12%;
+			 height: 5%;
+			 font-size: 100%;
+			 position:absolute;
+			 bottom: 5%;
+			 right: 0px;
+			}
+			.fun:hover{
+			background-color: green;
+			}
+			a:link {
+                  text-decoration: none;
+            }
+            a:visited {
+                  text-decoration: none;
+           }
+            a:hover {
+                  text-decoration: none;
+           }
+            a:active {
+                  text-decoration: none;
+           }
